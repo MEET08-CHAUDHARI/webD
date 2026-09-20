@@ -1,0 +1,63 @@
+#navbar{
+    position: sticky;
+    background-color: black;
+    height: 100px;
+    width: 1680px;
+     color: aliceblue;
+     
+    
+   
+}
+#c{
+    display: inline-block;
+    position: relative;
+    top: 10px;
+}
+#d{
+    display: inline-block;
+    position: relative;
+    top: 10px;
+    left: 25px;
+}
+
+#card{
+    height: 600px;
+    width: 400px;
+    background-color: white;
+    margin: 20px auto;
+    border-radius: 5%;
+}
+#a{
+    height: 300px;
+    width: 400px ;
+    border-radius: 5%;
+}
+#two{
+    background-color: blueviolet;
+    color: white;
+    height: 40px;
+    width: 100px;
+    position: relative;
+    left: 40px;
+}
+#one{
+    position: relative;
+    bottom:  500px ;
+    right: 100px;
+    height: 35px;
+    width: 100px;
+    background-color: crimson;
+    color: aliceblue;
+    border-radius: 5%;
+}
+#b{
+    position: relative;
+    bottom: 255px;
+    right: 200px;
+    height: 40px;
+    width: 90px;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 5%;
+}
+

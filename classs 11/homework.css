@@ -1,0 +1,21 @@
+fieldset{
+  display: inline-block;
+  align-items: left;
+  border-radius: 5%;
+}
+div{
+  height: 80px;
+  width: 800px;
+  background-color: rgb(6,6,43);
+  color: whitesmoke;
+}
+#a{
+  color: blue;
+}
+button{
+  background-color: blue;
+}
+#my a{
+  padding:20px;
+  
+}

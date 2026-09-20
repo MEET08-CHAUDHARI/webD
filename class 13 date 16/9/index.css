@@ -1,0 +1,30 @@
+#a{
+    height: 1000px;
+    width: 400px;
+    background-color: darksalmon;
+}
+#b{
+        
+         background-color: white;
+         border-radius: 50% ;
+         margin: 2px auto;
+         position: absolute;
+         left: 80px;
+         top: 12px;
+       
+         
+}
+#c{
+        height: 200px;
+         width: 200px;
+         background-color: white;
+         border-radius: 50% ;
+         margin: 3px auto;
+         position: absolute;
+         bottom: 65px;
+         left: 0.1px;
+         right: 10px;
+        top: 1px; 
+        border:  solid white;
+}
+    
